@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=gradient&height=300&section=header&text=Welcome-JYhub%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=gradient&height=300&section=header&text=Welcome-JYhub&fontSize=90)
 
 ## Introduction
 저는 영남대학교 컴퓨터공학과에 재학중인 고준영이라고 합니다.
