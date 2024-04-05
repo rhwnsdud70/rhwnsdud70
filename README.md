@@ -5,4 +5,4 @@
 현재 Web Back-End분야에 관심이 있어 Java 및 Spring을 공부중입니다.
 
 ## Tech Stack
-<a href="https://www.oracle.com/java/" target="Java"><img src="https://img.shields.io/badge/문자-#F80000?style=flat-square&logo=Oracle&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Java-#F80000?style=for-the-badge&logo=oracle&logoColor=black">
