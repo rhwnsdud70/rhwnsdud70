@@ -7,6 +7,8 @@ Java와 Spring Boot를 중심으로 백엔드를 개발하고, AI를 활용한 �
 
 ## 🛠️ Tech Stack
 
+![Java, Spring, MySQL, SQLite, Python 로고](https://skillicons.dev/icons?i=java,spring,mysql,sqlite,py)
+
 - **Backend** · Java, Spring Boot, JPA
 - **Database** · MySQL, SQLite
 - **Automation** · Python
